@@ -1,0 +1,23 @@
+.checklist-container{
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .checklist-label{
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .checklist-checkbox{
+    margin-right: 8px;
+  }
+  
+  .selected-options{
+    margin-top: 16px;
+    text-align: center;
+  }
